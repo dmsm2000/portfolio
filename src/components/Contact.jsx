@@ -62,8 +62,8 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
   
-    const email = 'dmsm@hotmail.com'; // Replace with your email address
-    const subject = 'Contact Inquiry'; // Replace with the desired subject of the email
+    const email = 'dmsm2000@hotmail.com'; // Replace with your email address
+    const subject = 'Contact'; // Replace with the desired subject of the email
     const body = `Name: ${form.name}    Email: ${form.email}    Message: ${form.message}`; // Build the email body with form data
   
     const mailToLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;

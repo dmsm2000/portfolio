@@ -143,13 +143,13 @@ const experiences = [
   },
   {
     title: 'iOS mobile developer Trainee',
-    company_name: 'LOQR, SA',
+    company_name: 'LOQR',
     date: '04/2022 – 08/2022',
     iconBg: '#333333',
   },
   {
     title: 'Mobile developer',
-    company_name: 'LOQR, SA',
+    company_name: 'LOQR',
     date: '05/09/2022 – 18/01/2023',
     iconBg: '#333333',
   },
