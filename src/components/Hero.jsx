@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-            Coding virtuoso transforming<br className="sm:block hidden" />lines of text into awe-inspiring digital experiences.
+            Coding virtuoso transforming <br className="sm:block hidden" />lines of text into awe-inspiring digital experiences.
             </p>
           </div>
           <div
