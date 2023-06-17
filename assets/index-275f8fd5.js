@@ -3551,7 +3551,7 @@ No matching component was found for:
           max-w-7xl mx-auto flex flex-row items-start
           justify-between gap-3`,children:[oe.jsxs("div",{className:"flex flex-col justify-center items-center mt-5 ml-3",children:[oe.jsx("div",{className:"w-5 h-5 rounded-full bg-[#0a0a0a] sm:hidden"}),oe.jsx("div",{className:"w-1 sm:h-80 h-40 bw-gradient sm:hidden"})]}),oe.jsxs("div",{children:[oe.jsxs("h1",{className:`${kn.heroHeadText} text-eerieBlack font-poppins uppercase`,children:["Hi, I'm"," ",oe.jsx("span",{className:`sm:text-battleGray sm:text-[90px] \r
                 text-eerieBlack text-[50px] font-mova\r
-                font-extrabold uppercase`,children:"Marques"})]}),oe.jsxs("p",{className:`${kn.heroSubText} mt-2 text-eerieBlack`,children:["Coding virtuoso transforming",oe.jsx("br",{className:"sm:block hidden"}),"lines of text into awe-inspiring digital experiences."]})]}),oe.jsx("div",{className:`w-screen flex flex-col items-start \r
+                font-extrabold uppercase`,children:"Marques"})]}),oe.jsxs("p",{className:`${kn.heroSubText} mt-2 text-eerieBlack`,children:["Coding virtuoso transforming ",oe.jsx("br",{className:"sm:block hidden"}),"lines of text into awe-inspiring digital experiences."]})]}),oe.jsx("div",{className:`w-screen flex flex-col items-start \r
             justify-center sm:-ml-[3rem] xxs:mt-4`}),oe.jsx("div",{})]}),oe.jsx("div",{className:`absolute xs:bottom-10 bottom-32 w-full \r
           flex justify-center items-center`,children:oe.jsx("a",{href:"#about",children:oe.jsx("div",{className:`w-[35px] h-[64px] rounded-3xl border-4 \r
             border-french border-dim flex\r
