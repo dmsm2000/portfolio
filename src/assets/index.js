@@ -24,7 +24,6 @@ import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
 import docker from './tech/docker.png';
-import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
@@ -35,7 +34,6 @@ import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
 import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
-import rubyrails from './tech/rubyrails.png';
 import android from './tech/android.png';
 import flutter from './tech/flutter.png';
 import sql from './tech/sql.png';
@@ -83,14 +81,12 @@ export {
   sendHover,
   css,
   docker,
-  figma,
   git,
   graphql,
   html,
   javascript,
   nodejs,
   postgresql,
-  rubyrails,
   reactjs,
   redux,
   tailwind,
