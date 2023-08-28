@@ -73,30 +73,6 @@ const services = [
 ];
 
 const technologies = [
-  /* {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
-  },
-  {
-    name: 'JavaScript',
-    icon: javascript,
-  },
-  {
-    name: 'TypeScript',
-    icon: typescript,
-  },
-  {
-    name: 'React JS',
-    icon: reactjs,
-  },
-  {
-    name: 'Node JS',
-    icon: nodejs,
-  }, */
   {
     name: 'sql',
     icon: sql,
@@ -129,7 +105,30 @@ const technologies = [
     name: 'ios',
     icon: ios,
   },
-
+  {
+    name: 'HTML 5',
+    icon: html,
+  },
+  {
+    name: 'CSS 3',
+    icon: css,
+  },
+  {
+    name: 'JavaScript',
+    icon: javascript,
+  },
+  {
+    name: 'TypeScript',
+    icon: typescript,
+  },
+  {
+    name: 'React JS',
+    icon: reactjs,
+  },
+  {
+    name: 'Node JS',
+    icon: nodejs,
+  },
 ];
 
 const experiences = [
