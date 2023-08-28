@@ -13,8 +13,18 @@ const Tech = () => {
         <h2 className={styles.sectionHeadTextLight}>Technologies.</h2>
       </motion.div>
 
-      <div className="flex flex-wrap justify-center gap-10 mt-14">
+      {/* Show the top set on large to medium screens */}
+      <div className="hidden md:flex flex-wrap justify-center gap-10 mt-14">
         {technologies.map((technology) => (
+          <div className="w-28 h-28" key={technology.name}>
+            <BallCanvas icon={technology.icon} />
+          </div>
+        ))}
+      </div>
+
+      {/* Show the bottom set on small screens */}
+      <div className="md:hidden flex flex-wrap justify-center gap-10 mt-14">
+        {technologies.slice(0, technologies.length / 2).map((technology) => (
           <div className="w-28 h-28" key={technology.name}>
             <BallCanvas icon={technology.icon} />
           </div>

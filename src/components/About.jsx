@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Born in 2000 with dual Angolan and Portuguese nationalities, 
+        Born in 2000, 
         I'm a versatile computer engineering student pursuing a master's degree. 
         I have experience in full-stack and mobile development, 
         as well as knowledge in databases, machine learning, 
