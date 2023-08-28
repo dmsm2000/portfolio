@@ -73,7 +73,7 @@ const services = [
 ];
 
 const technologies = [
-  {
+  /* {
     name: 'HTML 5',
     icon: html,
   },
@@ -96,7 +96,7 @@ const technologies = [
   {
     name: 'Node JS',
     icon: nodejs,
-  },
+  }, */
   {
     name: 'sql',
     icon: sql,
