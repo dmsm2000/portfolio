@@ -92,8 +92,8 @@ const Experience = () => {
               </div>
             }>
             <a
-              href="cv_David_Marques.pdf" // Replace "your-cv-file.pdf" with the actual file path or URL of your CV
-              download="CV_David_Marques.pdf" // Specify the desired filename for the downloaded file
+              href="CV - David Marques.pdf" // Replace "your-cv-file.pdf" with the actual file path or URL of your CV
+              download="CV - David Marques.pdf" // Specify the desired filename for the downloaded file
               className={`${styles.liveDemo} flex justify-between 
               sm:text-[18px] text-[14px] text-timberWolf 
               font-bold font-beckman items-center py-5 pl-3 pr-3 
